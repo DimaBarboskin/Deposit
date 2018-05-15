@@ -1,0 +1,8 @@
+[0515/131458.412:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0515/131458.415:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0515/131458.415:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказ доступа} Процесс запросил доступ к объекту, однако права доступа не предоставлены. (0xc0000022)
+[0515/131458.445:ERROR:exception_snapshot_win.cc(88)] thread ID 7516 not found in process
+[0515/131458.445:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0515/213711.331:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказ доступа} Процесс запросил доступ к объекту, однако права доступа не предоставлены. (0xc0000022)
+[0515/213711.440:ERROR:exception_snapshot_win.cc(88)] thread ID 7696 not found in process
+[0515/213711.441:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
